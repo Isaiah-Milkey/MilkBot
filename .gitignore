@@ -1,3 +1,5 @@
 #Ignore these files
-cse476_final_project_dev_data.json
+#cse476_final_project_dev_data.json
+cse476_final_project_test_data.json
+cse476_final_project_answers.json
 final_project_tutorial.ipynb
